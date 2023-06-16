@@ -1,0 +1,15 @@
+img {
+    width: 75%;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+table {
+    border: 3px black solid;
+    padding: 2px 3px;
+}
+
+body {
+    margin: 5px;
+}
+
